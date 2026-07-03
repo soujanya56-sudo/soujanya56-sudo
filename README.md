@@ -37,16 +37,6 @@ A full-stack web platform connecting users with homemade food providers, featuri
 
 ---
 
-## 📚 Currently Learning
-
-- 🤖 IBM AI Developer Professional Course.
-- 💡 Vibe Coding Essentials – Build Apps with AI
-- 🌐 Node.js & Express.js
-- 🎨 Google UX Design Professional Certificate
-- ⚛️ Advanced React & Performance Optimization
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
