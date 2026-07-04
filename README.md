@@ -40,23 +40,8 @@ A full-stack web platform connecting users with homemade food providers, featuri
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,docker,tailwind,spring,figma,tensorflow,pytorch,git,github,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,docker,tailwind,spring,figma,tensorflow,pytorch,git,github,vscode&perline=11" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soujanya56-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujanya56-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soujanya56-sudo&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 
