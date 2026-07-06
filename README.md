@@ -20,14 +20,7 @@ I enjoy transforming ideas into intuitive digital experiences while continuously
 ## 👩‍💻 About Me
 
 - 🎓 Final Year **Computer Science Engineering** Student
-- 💻 Passionate about **Frontend Development**
-- ⚛️ Specialized in building modern web applications using **React.js**
-- 🎨 Love designing clean, responsive, and intuitive user interfaces
-- 🌱 Currently learning **Node.js**, **IBM AI Developer**, **Google UX Design**, and **AI-powered application development**
-- 🚀 Interested in Full-Stack Development, UI/UX, and AI-integrated web applications
-- 🤝 Open to internships, collaborations, and exciting development opportunities
-
----
+- 💻 Passionate about **Frontend Development**.
 
 ## 🚀 Current Project
 
