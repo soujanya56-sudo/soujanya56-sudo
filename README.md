@@ -36,14 +36,6 @@ A full-stack web platform connecting users with homemade food providers, featuri
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,docker,tailwind,spring,figma,tensorflow,pytorch,git,github,vscode&perline=11" />
 </p>
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soujanya56-sudo&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
